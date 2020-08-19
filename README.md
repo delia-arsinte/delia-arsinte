@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 💬 Ask me about java, spring, spring-boot, docker, kubernets, javascript
+- 🌱 I’m currently learning react
+
 <!--
 **delia-arsinte/delia-arsinte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
